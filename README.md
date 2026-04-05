@@ -29,5 +29,14 @@ I'm a backend developer who enjoys building efficient, scalable, and reliable sy
 ![](https://nirzak-streak-stats.vercel.app/?user=prathameshkaratkar&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshkaratkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- Active contributor with consistent commits
+- Strong focus on backend development (Java, Node.js, TypeScript)
+- Experience building REST APIs, authentication systems, and scalable services
+- Worked with relational and NoSQL databases
+
+📈 Highlights:
+- Built multiple backend projects
+- Implemented JWT-based authentication
+- Experience with Spring Boot and Express.js
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

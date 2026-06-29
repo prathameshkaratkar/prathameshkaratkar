@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Restaurant Review Platform**
+- 🔭 I’m currently working on **Restaurant Review Platform integrated with the ELK Stack (Elasticsearch, Logstash, and Kibana).**
 - 🌱 I’m currently learning **Spring Boot V3**
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Technology**

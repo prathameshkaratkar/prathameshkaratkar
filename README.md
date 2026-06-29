@@ -10,7 +10,7 @@
 - 📫 How to reach me: **karatkarprathamesh@gmail.com**
 
 ## About Me :
-I'm a backend developer who enjoys building efficient, scalable, and reliable systems. I work with technologies like Node.js, Express, Spring Boot, and databases to create robust backend solutions. Always learning and improving, I love turning ideas into working software.
+I am a backend developer passionate about crafting robust, highly scalable, and reliable backend solutions. I work across diverse ecosystems, leveraging technologies like Node.js (Express) and Java (Spring Boot) alongside relational and non-relational databases.Constantly evolving, I have recently deepened my expertise in the .NET ecosystem. I focus on building optimized data layers by combining the productivity of Entity Framework Core for transactional CRUD operations with the raw speed of Dapper for high-performance query execution. I thrive on learning new patterns and transforming architectural ideas into high-utility software.
 
 
 

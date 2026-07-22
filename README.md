@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on **Restaurant Review Platform integrated with the ELK Stack (Elasticsearch, Logstash, and Kibana).**
-- 🌱 I’m currently learning **Spring Boot V3**
+- 🔭 I’m currently working on **CircuitCraft E-Commerce Web Application With Redis Email-Notification Kafka Features**
+- 🌱 I’m currently learning **Spring Boot V4**
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Technology**
 - 📫 How to reach me: **karatkarprathamesh@gmail.com**

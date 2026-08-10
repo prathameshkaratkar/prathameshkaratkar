@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **CircuitCraft E-Commerce Web Application With Redis Email-Notification Kafka Features**
+- 🔭 I’m currently working on **CircuitCraft E-Commerce Web Application With Redis Email-Notification RabbitMQ**
 - 🌱 I’m currently learning **Spring Boot V4**
 - 👯 I’m looking to collaborate on **Backend Projects**
 - 💬 Ask me about **Technology**
